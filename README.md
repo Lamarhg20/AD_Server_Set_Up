@@ -12,7 +12,8 @@ Project is a simple walk through of setting up a Domain Controller on a Hypervis
 <h2>Environments Used </h2>
 
 - <b>Windows Server2019</b> 
-
+- <b>Windows Server2022</b>
+  
 <h2>Setup walk-through:</h2>
 
 <p align="center">
